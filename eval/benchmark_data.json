@@ -1,0 +1,212 @@
+[
+    {
+        "question": "What is the page number for the table on total remuneration of management in key positions?",
+        "ground_truth": "186",
+        "contexts": [
+            "l assets\n176\nT\u200978 Gross carrying amounts of trade receivables 177\nT\u200979 Loss allowances on securities 177\nT\u200980 Credit risk for derivatives 178\nT\u200981 Liquidity risk for trade payables 178\nT\u200982 Liquidity risk for derivatives 179\nT\u200983 Undiscounted cash flows of non-derivative and \nderivative financial liabilities\u00a0\u2013 reporting year\n180\nT\u200984 Undiscounted cash flows of non-derivative and \nderivative financial liabilities\u00a0\u2013 previous year\n181\nT\u200985 Right-of-use assets and amortization 183\n \nNo. Name Page\nT\u200986 Leases: amounts recognized in the income \nstatement\n183\nT\u200987 Due dates of receivables from finance leases 184\nT\u200988 Outstanding minimum lease payments from \noperating leases\n185\nT\u200989 Related party disclosures 186\nT\u200990 Total remuneration of management in key \npositions\n186\nT\u200991 Auditor\u02bcs fees 187\nT\u200992 Ten-year summary of the Bosch Group 229\n \n \nList of tables\n228\nThe Bosch Group Robert Bosch Stiftung Consolidated financial statementsGroup management report \n228\nAnnual report 2024\nAdditional inf"
+        ]
+    },
+    {
+        "question": "How many schools participated in the nationwide day of action for democracy and diversity in June 2024?",
+        "ground_truth": "More than 1,700 schools",
+        "contexts": [
+            "ch Group Consolidated financial statementsGroup management report Additional informationRobert Bosch Stiftung\n33\nAnnual report 2024\nSummer 2024: under the #IchStehAuf  motto, students from the \nWaldpark school in Heidelberg take a stand for democracy and \ndiversity \u2013 together with more than 1,700 schools across Germany.\n\u2003G\u200901\nTotal funding 2024\nin millions of euros\n13.16\nOverall funding\n151.09\nHealth \n40.35\nGlobal issues\n14.15\nEducation 219\nmillion euros\n \nThe initiative culminates in a nationwide day of action in \nJune 2024, where more than 1,700 schools with over \n300,000 students take a stand for democracy and diversity. \nIn the years ahead, the Stiftung will further extend its \nfunding to promote democracy education for students and \nteachers.\nThe Bosch Group Consolidated financial statementsGroup management report Additional informationRobert Bosch Stiftung\n34\nAnnual report 2024\nGroup management report\nof Robert Bosch GmbH  \nas of December\u00a031, 2024\nAnnual report 2024\n35\nThe Bosch "
+        ]
+    },
+    {
+        "question": "Who is the chairman of the board of management of the Bosch Group?",
+        "ground_truth": "Dr. Stefan Hartung",
+        "contexts": [
+            "ch Stiftung Consolidated financial statementsGroup management report Additional information\n10\nAnnual report 2024\nThe Bosch Group\nThe Bosch board of management\nThe Bosch board of management\nDr.\u2006Tanja R\u00fcckert\nMember of the board of\u00a0management\nKatja von Raven \nMember of the board of\u00a0management\nDr.\u2006Frank Meyer \nMember of the board of\u00a0management\nDr.\u2006Markus Heyn \nMember of the board of\u00a0management\nRobert Bosch Stiftung Consolidated financial statementsGroup management report Additional information\n11\nAnnual report 2024\nThe Bosch Group\nThe Bosch board of management\nBoard of management\nDr.\u2006Stefan Hartung\nChairman of the board of management\nTechnology, Innovation, and Quality\nFunctions and services \n \u2013 Communications and Governmental Affairs\n \u2013 Cor\nporate Affairs\n \u2013 Fi\neld Quality Board \n \u2013 Hu\nman Resources Senior Management \n P\nersonnel\n \u2013 In\ntellectual Property\n \u2013 Qu\nality Management\n \u2013 Re\nsearch and Advance Engineering\n \u2013 St\nrategy, Organization, and Business \n D\nevelopment\n \u2013 Te\nchnology Ma"
+        ]
+    },
+    {
+        "question": "What is the capital of Austria where several Bosch companies are located?",
+        "ground_truth": "Vienna",
+        "contexts": [
+            "ntage share \nof capital  \nEurope     \nAustria Bosch General Aviation Technology GmbH Vienna 100.0  \n Bosch Industriekessel Austria GmbH Bischofshofen 100.0  \n Bosch Rexroth GmbH Pasching 100.0  \n BSH Finance and Holding GmbH Vienna 100.0  \n BSH Hausger\u00e4te Gesellschaft mbH Vienna 100.0  \n MIIT Mechatronics Industries GmbH Vienna 100.0  \n Robert Bosch AG Vienna 100.0  \n Robert Bosch Holding Austria GmbH Vienna 100.0  \n     \nBelgium Bosch Rexroth N.V. Anderlecht 100.0  \n Bosch Thermotechnology N.V. / S.A. Mechelen 100.0  \n BSH Home Appliances S.A. Brussels 100.0  \n Robert Bosch Produktie N.V. Tienen 100.0  \n Robert Bosch S.A. Anderlecht 100.0  \n sia Abrasives Belgium N.V. / S.A. Mollem 100.0  \n     \nBulgaria Bosch Digital EOOD Sofia 100.0  \n BSH Domakinski Uredi Bulgaria EOOD Sofia 100.0  \n     \nCroatia BSH ku\u0107anski ure\u0111aji d.o.o. Zagreb 100.0  \n     \nCzech Republic Bosch Powertrain s.r.o. Jihlava 100.0  \n Bosch Rexroth spol. s.r.o. Brno 100.0  \n Bosch Thermotechnika s.r.o. Prague 100.0  "
+        ]
+    },
+    {
+        "question": "What was the EBIT of the Industrial Technology business sector in millions of euros?",
+        "ground_truth": "78 million euros",
+        "contexts": [
+            "\nthan expected development of sales revenue. This develop -\nment was the result of the decline in global automotive pro -\nduction and of consumer restraint in electromobility and \nG\u200913\nEBIT by business sector\nin millions of  eu ros\n2,380\n2,041\n672\n78\n683 485 694\n370 74\n\u2013178\n2023 2024 2023 2024 2023 2024 2023 2024 2023 2024\nMobility Industrial  \nTechnology\nConsumer Goods Energy and Building \nTechnology\nOther activities\n \nThe Bosch Group Robert Bosch Stiftung Consolidated financial statements Additional information\nAnnual report 2024\n69\nGroup management report \nReport on economic position\nautomated driving, which are areas of importance for the \n future of mobility. There were also considerable burdens as \na result of additional structural measures that were an -\nnounced over the course of the year and that were not in -\ncluded in our expectations.\nThe Industrial Technology business sector discloses EBIT of \n78 million  euros and a margin of 1.2 percent. In our forecast, \nwe had already "
+        ]
+    },
+    {
+        "question": "What is the page number for the consolidated statement of financial position?",
+        "ground_truth": "70",
+        "contexts": [
+            "opment cost, 2020\u20132024 \n(in millions of euros)\n67\nG\u200912 Research and development cost, 2020\u20132024 \n(as a percentage of sales revenue) 67\nG\u200913 EBIT by business sector (in millions of euros) 69\nG\u200914 Consolidated statement of financial position 70\nG\u200915 Capital expenditure, 2020\u20132024  \n(in millions of euros) 72\nG\u200916 Capital expenditure, 2020\u20132024  \n(as a percentage of sales revenue) 72\nG\u200917 Headcount by business sector 74\nG\u200918 Headcount by region 75\n \n \nList of tables\nNo. Name Page\nT\u200901 Most important items of the income statement 66\nT\u200902 Consolidated statement of cash flows 73\nT\u200903 Consolidated income statement 89\nT\u200904 Consolidated statement of comprehensive \nincome\n90\nT\u200905 Consolidated statement of financial position 91\nT\u200906 Consolidated statement of changes in equity 93\nT\u200907 Consolidated statement of cash flows 94\nT\u200908 Exchange rates 98\nT\u200909 Development of the consolidated group 101\nT\u200910 \n \nCondensed financial information on fully \nconsolidated subsidiaries with material \nnon-controlling "
+        ]
+    },
+    {
+        "question": "What is the target annual rate of sales growth set for the Mobility business sector until 2030?",
+        "ground_truth": "5 percent",
+        "contexts": [
+            "mined by reference to an expected long-\nterm growth rate. \nAn annual rate of sales growth of 5\u00a0percent has been set as \na\u00a0target in the Mobility business sector for the period until \n2030. The growth target was reduced by one percentage \npoint year on year to account for both the adjusted expecta -\ntions regarding global vehicle production and the expected \ndelay in the onset of technologies of future importance relat-\ning in particular to electromobility, automated driving, new \nelectrical and electronic architectures, and hydrogen. These \ntechnologies are taking longer than previously expected to \nbecome established in the European and North American \nmarkets. The changes resulting from the expected delays \nhave been taken into account in the business plans. \nThe economic effects, including particularly the steeper \nthan expected decline in the construction and machinery \nsectors in the main markets of Europe, North America, and \nChina, have been taken into account in the business pl"
+        ]
+    },
+    {
+        "question": "What was the percentage increase in research and development cost compared to the previous year?",
+        "ground_truth": "6.5 percent",
+        "contexts": [
+            "0.5 points.\nAt 18.5\n bi\nllion  eu\nros, distribution cost and administrative ex-\npenses were 1.6  pe\nrcent higher than in the previous year. Re-\nsearch and development cost rose 6.5  pe\nrcent to 7.8  bi\nllion \n eu\nros. In the case of both items, this increase is especially \ndue to greater burdens from structural adjustments that it \nwas not possible to offset. In the research and development \ncost, there were no appreciable changes in the share of cap-\nitalized development cost. The ratio of distribution cost and \nadministrative expenses to sales revenue is thus 20.5\n pe\nr-\ncent, compared with the previous year\u2019s 19.9  pe\nrcent, and \nthe research and development cost ratio 8.6  pe\nrcent, com-\npared with the previous year\u2019s figure of 8.0  pe\nrcent. There \nwere no major changes in other operating income and ex -\npenses. As in the previous year, the positive balance results \nespecially from earnings from the reversal of provisions.\nThe Mobility business sector again accounted for the large"
+        ]
+    },
+    {
+        "question": "What was the total sales revenue for the Bosch Group in 2024?",
+        "ground_truth": "90.3 billion euros",
+        "contexts": [
+            "ividual currencies is calculated in the first \nquarter of each year, on the basis of a foreign exchange \n bal\nance plan drawn up at that time. To calculate the annual \nexchange-rate effect, the individual items of sales revenue \nG\u200907\nSales revenue by region\nin billions of  eu ros\nTotal 2024 \n90.3\nTotal 2023 \n91.6\n46.8 44.5\n16.9 17.8\n27.9 28.0\n2023 2024 2023 2024 2023 2024\nEurope Americas Asia Pacific\u200a1\n1. Including other countries and Africa.\nG\u200908\nSales revenue by region, 2024\npercentage figures\n49.3\u2009%\nEurope\n31.0\u2009%\nAsia Pacific\u200a1\n19.7\u2009%\nAmericas\n90.3\nbillion  e uros\n1. Including other countries and Africa.\nThe Bosch Group Robert Bosch Stiftung Consolidated financial statements Additional information\nAnnual report 2024\n63\nGroup management report \nReport on economic position\nfor each currency are valued at the average rates of the previ-\nous year. In the case of sales revenue in hyperinflationary \neconomies\u00a0 \u2013 i.e., Turkey and Argentina\u00a0 \u2013 valuation is done \nat\u00a0 year-end rates, pursuant"
+        ]
+    },
+    {
+        "question": "What is the liability amount of Robert Bosch GmbH to Robert Bosch Stiftung GmbH as of the reporting date?",
+        "ground_truth": "EUR 36 million",
+        "contexts": [
+            "ole shareholder of Bosch Pensionsfonds AG. In the \nfiscal year, contributions were made to the plan assets of \nBosch Pensionsfonds AG to finance pension obligations. For \nfurther details, see note\u00a0 26 \u201cProvisions for pensions and \n si\nmilar obligations.\u201d\nRobert Bosch Stiftung GmbH, Stuttgart, is the lessee of sev-\neral properties belonging to Robert Bosch GmbH, Stuttgart. \nAs of the reporting date, furthermore, Robert Bosch GmbH \nhas a liability of \nEUR\u00a036\u00a0million (previous year: EUR\u00a047\u00a0mil -\nlion) to Robert Bosch Stiftung GmbH.\n185\nThe Bosch Group Robert Bosch Stiftung Group management report Additional informationConsolidated financial statements\nNotes to the consolidated financial statements\nAnnual report 2024\n185\nBusiness transactions with related entities\nRelated entities of the Bosch Group include the joint ven -\ntures, associated entities, and the entities in which non-  \nco ntrolling interests are held (investees) as well as entities \nnot consolidated on materiality grounds. Tr"
+        ]
+    },
+    {
+        "question": "What was the Bosch Vocational Centre (BVC) previously known as before its renaming in 2008?",
+        "ground_truth": "MVC",
+        "contexts": [
+            "y want to or not \u2013 also \nperform the role of educator in the positive sense of the word, \nand hence for the good of the economy as a whole.\u201d\n- Robert Bosch, in his memoir\nFRUSRUDWLRQV\u0003FRQWLQXH\u0003WR\u0003EHQH\u00c0W\u0003IURP\u0003WKH\u0003WUDLQLQJ\u0003\nopportunities.\nMVC also became one of the few to be recognised by \nthe Federal Ministry for Economic Cooperation and \nDevelopment, Germany. MVC was renamed to Bosch \nVocational Centre (BVC) in 2008. By 2014, it had won \n216 gold medals (Best Trade Apprentices) for best \nperformance in the All-India Competitions held by the \nDirectorate General of Employment and Training (DGET), \nMinistry of Labour and Employment, Government of \nIndia; and claimed the Best Establishment Award (by \nthe President of India) 47 times. \n28\n0DQXIDFWXUH\u0003RI\u00036SHFLDO\u00033XUSRVH\u00030DFKLQHV\nAbove:\u0003$\u0003SUH\u0010KRQLQJ\u0003PDFKLQH\u0003XVHG\u0003IRU\u0003\u00c0QH\u0010WXQLQJ\u0003HOHPHQW\u0003EDUUHOV\u0003\n(components used in fuel injection pumps).\nLeft: Miniature of MVC emblem created to commemorate 25 years of \ncompletion in 1985.\nIndia\u2019s economy went "
+        ]
+    },
+    {
+        "question": "What does the Two-Wheeler and Powersports business unit's portfolio include?",
+        "ground_truth": "Safety and assistance systems, displays, connectivity functions, control units, and components for both combustion engines and electric motors for two-wheelers, three-wheelers, and powersports vehicles.",
+        "contexts": [
+            ", based in Stuttgart, Germany, develops and \ndistributes products and solutions for the development and \noperation of software platforms for the software-defined \n veh\nicle. In addition to basic software, this includes solutions \nfor measurement and calibration, as well as middleware and \nsolutions for diagnostics and cybersecurity.\nThe Bosch Group Robert Bosch Stiftung Consolidated financial statements Additional information\nAnnual report 2024\n43\nGroup management report \nFundamental information about the group\nThe Two-Wheeler and Powersports  business unit\u2019s port-\nfo\nlio includes safety and assistance systems, displays, con -\nnectivity functions, control units, and components for both \ncombustion engines and electric motors for two-wheelers, \nthree-wheelers, and powersports vehicles.\nIndustrial Technology business sector\nThe Industrial Technology business sector comprises the \nDrive and Control Technology division (Bosch Rexroth), other \nactivities in the field of special-purpose mech"
+        ]
+    },
+    {
+        "question": "What is the registered office of BSH \u00e9lectrom\u00e9nagers S.A.?",
+        "ground_truth": "Senningerberg",
+        "contexts": [
+            "ftung Group management report Additional informationConsolidated financial statements\nList of shareholdings of the Bosch Group\nAnnual report 2024\n193\n \nRegion\u2009/\u2009country Company name Registered office\nPercentage share \nof capital  \nLatvia Robert Bosch SIA Riga 100.0  \n     \nLuxembourg BSH \u00e9lectrom\u00e9nagers S.A. Senningerberg 100.0  \n Ferroknepper Buderus S.A. Esch-sur-Alzette 100.0  \n     \nNetherlands Bosch Energy and Building Solutions B.V. Nieuwegein 100.0  \n Bosch Power Tools B.V. Breda 100.0  \n Bosch Rexroth B.V. Boxtel 100.0  \n Bosch Security Systems B.V. Eindhoven 100.0  \n Bosch Thermotechniek B.V. Deventer 100.0  \n Bosch Transmission Technology B.V. Tilburg 100.0  \n  BSH Huishoudapparaten B.V. Amsterdam 100.0  \n Digicontrol Benelux B.V. Apeldoorn 100.0  \n ELPRO Benelux B. V. s\u02bc-Hertogenbosch 100.0  \n Hacousto Holland B.V. Berkel en Rodenrijs 100.0  \n Nederlandse Veiligheidsdienst Groep Meldkamer B.V. Goes 80.0  \n Nefit Vastgoed B.V. Deventer 100.0  \n Robert Bosch Asset Managing C.V"
+        ]
+    },
+    {
+        "question": "Who is the intended buyer of the Building Technologies division\u2019s product business for security and communication technology?",
+        "ground_truth": "Funds advised by Triton Investments Advisers LLP, United Kingdom.",
+        "contexts": [
+            " \nof business, both adjacent and new, is intended to further \nincrease this margin.\nAs a rule, we are committed to our broad diversification. \nHowever, we are stepping up our efforts to strengthen our \nprofitability and our company\u2019s overall competitiveness. The \nfocus is on improving cost efficiency and on extensive mea -\nsures to adapt structures to changing requirements, on in -\ntensifying portfolio management, on increasing productivity \nin research and development, and on strengthening busi -\nness in selected regions. In 2024, we announced a raft of ad-\nditional structural adjustments that we want to implement in \nthe years ahead. These will affect all business sectors and \nregions. One key example of portfolio streamlining is the in -\ntended sale of the Building Technologies division\u2019s product \nbusiness for security and communication technology (Energy \nand Building Technology business sector) to funds advised \nby Triton Investments Advisers \nLLP, United Kingdom.\nThe Bosch Group "
+        ]
+    },
+    {
+        "question": "What is included in the condensed financial information on fully consolidated subsidiaries?",
+        "ground_truth": "Condensed financial information on fully consolidated subsidiaries with material non-controlling interests.",
+        "contexts": [
+            "interests (I)\n102\nT\u200911 \n \nCondensed financial information on fully \nconsolidated subsidiaries with material \nnon-controlling interests (II)\n103\nT\u200912 Condensed financial information on individually \nimmaterial joint ventures\n104\nT\u200913 Condensed financial information on individually \nimmaterial associated entities \n105\nT\u200914 Business combinations: financial information \non business combinations in the previous year\n106\nT\u200915 Main groups of assets held for sale and \nrelated liabilities\n108\nT\u200916 Distribution and administrative cost 111\nT\u200917 Research and development cost 111\nT\u200918 Other operating income 111\n \n226\nThe Bosch Group Robert Bosch Stiftung Consolidated financial statementsGroup management report \n226\nAnnual report 2024\nAdditional information\nList of graphs and tables\nNo. Name Page\nT\u200919 Other operating expenses 112\nT\u200920 Financial result 112\nT\u200921 Interest income and expenses attributable \nto\u00a0financial instruments 113\nT\u200922 Income tax expenses 114\nT\u200923 Breakdown of deferred taxes 114\nT\u20092"
+        ]
+    },
+    {
+        "question": "What are the main pillars of the Drive and Control Technology division's efforts to expand its activities?",
+        "ground_truth": "The main pillars of these efforts are the further development of existing products, innovations in software-based services, and the broadening of our international presence, also through sales partners.",
+        "contexts": [
+            " \ncustomers is changing as a result of trends such as mobile \nmachinery electrification, of the inroads being made by \nThe Bosch Group Robert Bosch Stiftung Consolidated financial statements Additional information\nAnnual report 2024\n53\nGroup management report \nProspects for the Bosch Group\n digital solutions, and of increased price pressure due to the \ngrowing significance of Asian suppliers, including emerging \nChinese companies.\nAgainst this backdrop, and despite today\u2019s challenging eco-\nnomic environment, our Drive and Control Technology divi -\nsion is continuing to expand its activities as a provider of \nsolutions for mobile and industrial hydraulics and of factory \nautomation. The main pillars of these efforts are the further \ndevelopment of existing products, innovations in software-\n \nba\nsed services, and the broadening of our international pres-\nence, also through sales partners.\nThe markets for the division\u2019s two segments, hydraulics and \nfactory automation, differ markedly. I"
+        ]
+    },
+    {
+        "question": "What is the principal place of business for the joint operation between Robert Bosch GmbH and CARIAD SE?",
+        "ground_truth": "Ingolstadt, Germany",
+        "contexts": [
+            "ng amount of the investments 38 33\nGroup share of profit after tax 16 10\nGroup share of other comprehensive \nincome after tax 0 \u20131\nGroup share of comprehensive income  16 9\nThe carrying amount of the investments in the above-men -\ntioned joint ventures corresponds to the proportionate share \nin these entities\u2019 equity.\nSince 2022, a cooperation arrangement has been in place \nbetween Robert Bosch GmbH and the Volkswagen group \n e\nntity CARIAD  SE, Wolfsburg, Germany, for the develop -\nment of a software platform for partially and highly auto -\nmated driving. The principal place of business of the joint \noperation is Ingolstadt, Germany. The development costs \nincurred are shared equally between the parties. Each party \nis granted rights to use and market the jointly developed \n re\nsults; the results of engineering work are not marketed \njointly.\nAssociated entities\nPursuant to IAS\u00a028, investments are also included in the con -\nsolidated financial statements using the equity method if \nsi"
+        ]
+    },
+    {
+        "question": "What are some of the risk categories considered by the Bosch Group?",
+        "ground_truth": "The most important risk categories include risks related to infrastructure and cybersecurity, implications of project delays for individual customers, legislation and regulations regarding product safety, climate, data privacy, and global supply chains.",
+        "contexts": [
+            "infrastructure and cybersecurity\u201d risk cluster ad -\ndresses risks with respect to core IT processes and con -\nnected products, and the danger of business processes be -\ning interrupted. One of the risks considered in the \u201cprojects \nand customers\u201d cluster looks at the implications of projects \nfor individual customers being delayed. There is also the \n fo\ncal point of risks arising from legislation and regulations, \nincluding those relating to product safety, climate, and data \nprivacy. The most important risk categories also include the \nBosch Group\u2019s global supply chains. This includes factors \nsuch as the bankruptcy of critical suppliers and interrup -\ntions in supply.\nThe Bosch Group Robert Bosch Stiftung Consolidated financial statements Additional information\nAnnual report 2024\n80\nGroup management report \nReport on opportunities and risks\nFour risks exceeded the 250-million-  eu ro threshold for indi-\nvidual financial risks: an increase in nation-state protection -\nism and the con"
+        ]
+    },
+    {
+        "question": "What types of products are included in the Consumer Goods business sector?",
+        "ground_truth": "Power tools and household appliances.",
+        "contexts": [
+            "sor technology, and semiconductors, and a wide-ranging \nportfolio for e-bikes.\nThe Industrial Technology business sector combines the \n f\nollowing activities:\n \u2013 Automation technology (technologies for drives, \n con\ntrols, and motion)\n \u2013 Industry 4.0 software activities and projects\nThe operations of the Consumer Goods business sector \ncomprise the production and distribution of:\n \u2013 Power tools (tools for professionals, industry, and DIY, \naccessories, garden tools, as well as industrial tools \nand\u00a0measuring equipment)\n \u2013 Household appliances (appliances for cooking, washing-\nup, laundry, drying, cooling, freezing, floor care, etc.) \nThe Energy and Building Technology business sector com -\nprises the following activities:\n \u2013 Security systems (video surveillance, public address \nsystems, evacuation systems, and access control)\n \u2013 Solutions and services for building security, energy \nefficiency, and building automation\n \u2013 Home comfort (heating, cooling, and well-being \nin\u00a0\n b\nuildings)\n "
+        ]
+    },
+    {
+        "question": "Who is the Chairman of the shareholders\u2019 meeting?",
+        "ground_truth": "Prof. Stefan Asenkerschbaumer",
+        "contexts": [
+            "Prof.\u2006Stefan Asenkerschbaumer\nStuttgart\nChairman of the shareholders\u2019 meeting\nDr.\u2006Eberhard Veit\nG\u00f6ppingen\nLIMITED PARTNERS\nDr.\u2006Christof Bosch\nK\u00f6nigsdorf\nDr.\u2006Christian Fischer\nStuttgart\nProf.\u2006Elgar Fleisch\nSt.\u2006Gallen\nProf.\u2006Lino Guzzella\nUster\nDr.\u2006Stefan Hartung\nLudwigsburg\nProf.\u2006Michael Kaschke\nOberkochen\nProf.\u2006Renate K\u00f6cher\nKonstanz\nPeter Spuhler\nWeiningen\nRobert Bosch International \nAdvisory Committee\nRobert Bosch Industrietreuhand KG\nProf.\u2006Stefan Asenkerschbaumer\nStuttgart\nChairman\nNatarajan Chandrasekaran SINCE JAN. 1, 2024\nMumbai\nProf.\u2006Sigmar Gabriel\nGoslar\nDr.\u2006Christoph Heusgen\nBerlin\nBaba N.\u2006Kalyani UNTIL DEC. 31, 2024\nPune\nYumiko Murakami\nTokyo\nHRH Prince Mired Raad Zeid SINCE MAR. 1, 2024\nAmman\nPaul Ryan\nJanesville\nProf. Marcos Troyjo SINCE FEB. 1, 2024\nS\u00e3o Paulo\nJing Ulrich\nNew York\nProf.\u2006Igor Yurgens UNTIL DEC. 31, 2024\nMoscow\nRobert Bosch Stiftung Consolidated financial statementsGroup management report Additional information\n19\nAnnual report 2024\nThe Bosch Group\nIndustrial "
+        ]
+    },
+    {
+        "question": "What two countries were emerging as manufacturing hubs for the next millennium due to skilled engineers and robust domestic demand?",
+        "ground_truth": "India and China",
+        "contexts": [
+            "n market. Plenty \nof job opportunities were created, and the \nambitious middle-class Indian aspired for\na better quality of living. \nIn the West, with the saturation of the auto \ncomponent industry, the focus shifted \nparticularly to India and China, which were \nemerging as the manufacturing hubs for \nthe next millennium due to the availability \nof skilled engineers and robust domestic \ndemand. At the same time, a new market \nemerged \u2013 that of low-priced vehicles \n(LPV). The Indian market was a growing \nurban market with a large number of \n\u00c0UVW\u0010WLPH\u0003FDU\u0003RZQHUV\u0003DQG\u0003PL[HG\u0003\ndemographics.  \nIt became increasingly clear that greater \nopportunity awaited for Bosch in India. \nThis was exciting as well as challenging. \nChallenging, because the needs of the \nLPV market had to be met at low costs \nwithout compromising on quality for the \n\u2018price conscious\u2019 Indian market. Exciting, \nbecause the robust domestic demand had \ngreat business potential. Bosch in India \nwas prepared to meet the challenge"
+        ]
+    },
+    {
+        "question": "What was the liquidity of the Bosch Group at year-end 2024?",
+        "ground_truth": "8.2 billion euros",
+        "contexts": [
+            " the end of the year (Dec.\u200631)  8,223 7,443\nThe Bosch Group Robert Bosch Stiftung Consolidated financial statements Additional information\nAnnual report 2024\n73\nGroup management report \nReport on economic position\nLiquidity\nThe Bosch Group is financially strong. Liquidity at year-end \nas per the consolidated statement of cash flows (cash and \ncash equivalents) stood at 8.2\n bi\nllion  eu\nros, compared with \n7.4  bi\nllion  eu\nros the previous year. Cash flows from operating \nactivities fell to 7.0  bi\nllion  eu\nros or 7.7  pe\nrcent of sales reve -\nnue in 2024; the previous-year figure was 9.2  pe\nrcent. In the \nreporting year, it was again possible to reduce the amount of \ncapital tied up in current assets. However, this improvement \nwas not as great as in the previous year.\nCash flows from investing activities amounted to 4.5\n bi\nllion \n eu\nros, compared to the previous-year figure of 11.2  bi\nllion \n eu\nros. The main reasons for the sharp decline are cash flows \nfrom the sale of securi"
+        ]
+    },
+    {
+        "question": "What was the amount of trade payables due in more than one year in 2024?",
+        "ground_truth": "EUR 102 million",
+        "contexts": [
+            "able trade pay -\nables ranges between 0 and 180\u00a0days.\nTrade payables due in more than one year came to \nEUR\u00a0102\u00a0million (previous year: EUR\u00a056\u00a0million).\nFurther disclosures on trade payables are contained in the \nsection on liquidity risks in note 31 \u201cCapital and risk manage -\nment.\u201d\n131\nThe Bosch Group Robert Bosch Stiftung Group management report Additional informationConsolidated financial statements\nNotes to the consolidated financial statements\nAnnual report 2024\n131\n23 \u2014 Other current and non-current financial \nliabilities\nT\u200943\nin millions of euros\n 2024 2023\n up to 1 year\nmore  \nthan 1\u00a0year up to 1 year\nmore  \nthan 1\u00a0year\nBonds  6,870 749 6,797\nSchuldschein loans, registered bonds 551 2,649  3,199\nLiabilities to banks 233 207 194 118\nCommercial papers 480  588  \nLoans 96 28 76 33\nDerivatives 308 49 304 30\nSundry other financial liabilities 809 240 861 222\n  2,477 10,043 2,772 10,399\nThe line item \u201cbonds\u201d contains bonds with a nominal value of \nEUR\u00a0 5.75\u00a0 billion that bear intere"
+        ]
+    },
+    {
+        "question": "What was the amount of impairment losses attributable to plant and equipment in the reporting year?",
+        "ground_truth": "EUR 94 million",
+        "contexts": [
+            "uipment, furniture, and fixtures, assets \n u\nnder\u00a0construction: EUR\u00a075\u00a0million (previous year: \nEUR\u00a02\u00a0  million).\nTh\ne impairment losses of the reporting year contain an \namount of EUR\u00a0 94\u00a0 million attributable to plant and equip -\nment, to other equipment, fixtures, and furniture, as well as \nto assets under construction of the Power Solutions division \n(Mobility business sector). The impairment losses were nec-\nessary due to fundamental changes in the market.\nThe corresponding expenses are recognized in functional \ncosts.\nPurchase commitments for items of property, plant, and \nequipment amounted to \nEUR\u00a0 903\u00a0 million (previous year: \nEUR\u00a0 1,489\u00a0 million); there were no restrictions on title in \n eit\nher the reporting year or the previous year. Government \ngrants for assets of EUR\u00a031\u00a0million (previous year: EUR\u00a058\u00a0mil -\nlion) were deducted from the additions in the reporting year.\nInvestment property comprises rented land and buildings \nwhich were measured at depreciated cost in accor"
+        ]
+    },
+    {
+        "question": "In what year was the Bosch Group founded?",
+        "ground_truth": "1886",
+        "contexts": [
+            "German engineering and Indian \nentrepreneurial mindset.\nSo, how did Bosch begin its \njourney in India? Where does\none start? Read on\u2026.\n11\n12\nFounded in 1886, the Bosch Group is more than         \n128 years old today. By 1922, the humble workshop \nfounded by Robert Bosch had expanded considerably, \ninitially by manufacturing and marketing their trademark \ninvention \u2013 the high-voltage Bosch magneto ignition \ndevice. After the damage wrought by World War I, Bosch \nestablished agencies in the U.K., France, Argentina, \nSouth Africa, Japan and China. India was also in the \nplan.\nColonial era and \nIndependence\nLeft:\u00037KH\u0003\u00c0UVW\u0003%RVFK\u0003DJHQF\\\u0003LQ\u0003,QGLD\u0003ZDV\u0003VHW\u0003XS\u0003LQ\u0003SDUWQHUVKLS\u0003ZLWK\u0003,OOLHV\u0003\t\u0003&R\u0011\u0003DW\u0003\n&DOFXWWD\u0003DV\u0003HDUO\\\u0003DV\u0003LQ\u0003\u0014\u001c\u0015\u0015\u0011\u0003:LWK\u0003,OOLHV\u000f\u0003%RVFK\u0003KDG\u0003VWDUWHG\u0003D\u0003VDOHV\u0003RI\u00c0FH\u0003LQ\u0003-DSDQ\u0003WRR\u0003\nin 1920.\nAbove: The initial magneto designed by Robert Bosch was suitable only for low-speed \nstationary engines. His master craftsman, Arnold Zahringer, ingeniously came up with a \nsimple solution which used a smal"
+        ]
+    },
+    {
+        "question": "In what year did the ten-millionth single-cylinder pump get produced?",
+        "ground_truth": "1988",
+        "contexts": [
+            "r diesel engines rolled off production lines in 1987, and the ten-millionth \nsingle-cylinder pump was made in the year after.\nAbove: Starter Motor and Alternator\nLeft: An aerial view of the Naganathapura plant which is located 11 km \naway from the Bangalore plant. \n1977 \u2013 1990\n37\n1HZ\u0003SODQW\u0003DW\u00031DJDQDWKDSXUD\u0003KHOSV\u0003GLYHUVLI\\\u0003SURGXFW\u0003UDQJH\nThe Indian automobile industry\nhad entered a period of accelerated \ngrowth. In 1988, Mico took \nthe decision to diversify by \nmanufacturing auto electricals to \nmatch developments in the market. \nThe foundation stone of the third \nmanufacturing site was inaugurated \nin the village of Naganathapura in \n$SULO\u0003\u0014\u001c\u001b\u001b\u0011\u0003,Q\u0003WKH\u0003\u00c0UVW\u0003SKDVH\u000f\u0003JORZ\u0003\nplug and spark plug lines were \nshifted from the Bangalore plant \nto the new Naganathapura plant. \nAdditionally, production of starter \nmotors and alternators was started. \nA little later, the manufacture of \nsingle-cylinder diesel injection \npumps, delivery valves and elements \nfollowed. \nThe plant soon became the centr"
+        ]
+    },
+    {
+        "question": "What was the profit after tax for the year 2024?",
+        "ground_truth": "1,332 million euros",
+        "contexts": [
+            "er 31, 2024\nT\u200903\nin millions of euros\n Note 2024 2023\nSales revenue 7 90,345 91,596\nCost of sales 8 \u201362,591 \u201362,976\nGross profit  27,754 28,620\nDistribution and administrative cost 8 \u201318,531 \u201318,233\nResearch and development cost 8 \u20137,807 \u20137,331\nOther operating income 9 3,378 3,470\nOther operating expenses 10 \u20132,001 \u20132,029\nResult from entities included at equity 6 3 6\nEarnings before financial result and taxes (EBIT)  2,796 4,503\nFinancial income 11 3,547 3,980\nFinancial expenses 11 \u20133,615 \u20134,507\nFinancial result  \u201368 \u2013527\nProfit before tax  2,728 3,976\nIncome taxes 12 \u20131,396 \u20131,336\nProfit after tax  1,332 2,640\nof which attributable to non-controlling interests  546 539\nof which attributable to shareholders of the parent company    786 2,101\n89\nThe Bosch Group Robert Bosch Stiftung Group management report Additional information\nAnnual report 2024\n89\nConsolidated financial statements\nConsolidated income statement\nConsolidated statement of comprehensive income\nfor the period from January"
+        ]
+    },
+    {
+        "question": "What was the sales revenue in millions of euros for the year 2022?",
+        "ground_truth": "88,201",
+        "contexts": [
+            "ade payables and contract liabilities.\nG\u200905\nSales revenue, 2020\u200a\u2013\u200a2024\nin millions of  eu ros\n71,494\n78,748\n88,201 91,596 90,345\n2020 2021 2022 2023 2024\n \nG\u200906\nEBIT, 2020\u200a\u2013\u200a2024\nin millions of  eu ros\n1,657\n2,815\n3,474\n4,503\n2,796\n2020 2021 2022 2023 2024\n \nThe Bosch Group Robert Bosch Stiftung Consolidated financial statements Additional information\nAnnual report 2024\n60\nGroup management report \nReport on economic position\nThe main basis for monitoring this is our internal reporting, \nwhich takes its lead from the International Financial Report-\ning Standards (IFRSs). A monthly business report, which \ncontains an up-to-date overview of the operating units\u2019 per -\nformance indicators, serves as the central reporting tool. It \nprovides a year-on-year comparison and a plan-versus-\n \nac\ntual comparison of selected performance indicators. The \nreport is based on the business plan, which is embedded \ninto longer-\n te\nrm strategic corporate planning. The planning \nmethod used is strongly gea"
+        ]
+    },
+    {
+        "question": "What is the percentage share of capital for Robert Bosch Lanka (Pvt.) Ltd. in Sri Lanka?",
+        "ground_truth": "100.0",
+        "contexts": [
+            "obert Bosch Limited Lagos 100.0  \n     \nOman Robert Bosch Muscat Sole Proprietor Company Muscat 100.0  \n     \nSaudi Arabia BSH Home Appliances Saudi Arabia LLC Jeddah 51.0 \n Robert Bosch Regional Headquarters (Single Shareholder Limited Liability Company) Jeddah 100.0  \n Robert Bosch Saudi Arabia Ltd. Riyadh 100.0  \n \n214\nThe Bosch Group Robert Bosch Stiftung Group management report Additional informationConsolidated financial statements\nList of shareholdings of the Bosch Group\nAnnual report 2024\n214\n \nRegion\u2009/\u2009country Company name Registered office\nPercentage share \nof capital  \nSingapore Elmo Motion Control (Singapore) PTE Ltd. Singapore 100.0  \n WhatsEGG Pte. Ltd. Singapore 78.6  \n     \nSouth Africa Diesel Electric (Lesotho) (Pty) Ltd. Brits 100.0  \n Diesel Electric (South Africa) (Pty) Ltd. Brits 100.0  \n Diesel Electric Holdings (Pty) Ltd. Brits 100.0  \n H\u00e4gglunds Drives South Africa (Pty.) Ltd. Fourways 100.0  \n     \nSri Lanka Robert Bosch Lanka (Pvt.) Ltd. Colombo 100.0  \n     \n"
+        ]
+    },
+    {
+        "question": "What company sold the trade components of the Blaupunkt brand in 2008?",
+        "ground_truth": "Bosch Car Multimedia GmbH",
+        "contexts": [
+            "hnologies they brought, made \n\u2018quality\u2019 and \u2018choice\u2019 important elements in the psyche of the Indian \nconsumer. \n:LWK\u0003WKH\u0003LQ\u00c1X[\u0003RI\u0003IUHVK\u0003IRUHLJQ\u0003LQYHVWPHQWV\u0003LQ\u0003,QGLD\u000f\u0003WKH\u0003VFRSH\u0003RI\u0003SURGXFW\u0003\nofferings and new technologies increased. For Bosch in India, it became \nnecessary to make use of this opportunity by introducing innovative \nproducts for the evolving market. It was also a period of expansion and \nGLYHUVL\u00c0FDWLRQ\u0003LQ\u0003QRQ\u0010DXWRPRWLYH\u0003EXVLQHVV\u0003DUHDV\u0003DV\u0003ZHOO\u0011\u0003\n1991 \u2013 2000\n41\n$XWRPRWLYH\u0003$IWHUPDUNHW\u0003JDLQV\u0003RSSRUWXQLW\\\n3URGXFWLRQ\u0003RI\u0003%ODXSXQNW\u0003LQ\u0010FDU\u0003HQWHUWDLQPHQW\u0003V\\VWHPV\n*However, as the years went by, Bosch Car Multimedia GmbH \u2013 which owned the \naftermarket business of the Blaupunkt brand \u2013 sold the trade components under the \nBlaupunkt brand to Munich-based industrial holding company AURELIUS in 2008. \nThis strategic realignment was necessary in order to concentrate on core \nOEM business.\n2I\u0003WKH\u0003PDQ\\\u0003EHQH\u00c0WV\u0003EURXJKW\u0003IRUWK\u0003E\\\u0003WKH\u0003OLEHUDOLVDWLRQ\u0003\nRI\u0003WKH\u0003,QGLDQ\u0003HFRQRP\\\u000f\u0003RQH\u0003RI\u0003WKH\u0003PRVW\u0003VLJQL\u00c0FD"
+        ]
+    }
+]

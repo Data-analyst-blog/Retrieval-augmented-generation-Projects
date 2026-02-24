@@ -1,0 +1,3 @@
+crontab -e
+
+0 2 * * * /usr/bin/python3 /full/path/to/project/crawler.py >> log.txt 2>&1

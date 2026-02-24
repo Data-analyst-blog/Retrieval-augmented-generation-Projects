@@ -1,0 +1,30 @@
+# -------- Document Processing -------------
+PyPDF2 # A basic utility for reading, splitting, merging, and extracting plain text from standard PDF files.
+pdfplumber # A library for extracting text and tables from PDF files.
+python-docx # A library for creating and modifying Microsoft Word (.docx) files.
+pytesseract # A Python wrapper for Google's Tesseract-OCR Engine, used for optical character recognition.
+pillow # A powerful image processing library.
+openpyxl # A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
+
+# -------- Web Scrapping & Data Fetching ----------
+beautifulsoup4 # A library for pulling data out of HTML and XML files.
+requests # A simple, yet elegant HTTP library.
+
+# -------- Data Processing --------
+numpy # The core library for numerical computing.
+pandas # A powerful data manipulation and analysis library.
+
+# -------- AI & Machine Learning --------
+openai # The official client for OpenAI's API.
+sentence-transformers # An open-source alternative for generating high-quality text embeddings locally.
+langchain # An orchestration framework that glues LLMs, document loaders, and tools together.
+langchain-text-splitters # A library for splitting text into chunks.
+# -------- Configuration Security --------
+python-dotenv  # A utility that loads environment variables from a hidden .env file.
+
+#-------- Vector Search ----------
+faiss-cpu # Facebook AI Similarity Search. Once sentence-transformers or openai turns your documents into vectors, FAISS stores them and performs lightning-fast similarity searches to find the exact paragraph relevant to a user's question.
+
+# ------ API & Web Scraping ------
+fastapi  # A high-performance framework for building REST APIs.
+uvicorn  # The lightning-fast ASGI web server that actually runs your FastAPI application
